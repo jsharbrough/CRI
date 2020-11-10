@@ -8,7 +8,7 @@ Usage:
 
 In a unix terminal type:
 
-    python cri.py input.txt
+    python CRI.py input.txt
 
 Where input.txt is a tab-delimited file with four columns. The four columns should be as follows:
 
