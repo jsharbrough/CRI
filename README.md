@@ -26,7 +26,7 @@ The output file will have all the columns of the input file, plus conservative a
 
 Copyright Joel Sharbrough 2020. All rights reserved. This program is distributed under the MIT license, and can be used freely for any non-commercial efforts. If you use this program in your work, please cite the following papers:
     
-Sharbrough et al. 2018. Evolution. 72 (4), 808-824 
+Sharbrough et al. 2018. Evolution. 72 (4), 808-824.
 Zhang. 2000. J Mol Evol. 50(1), 56-68.
 Hanada et al. 2007. Mol Biol Evol. 24(10), 2235-2241.
 Grantham. 1974. Science. 185 (4154), 862–864. 
