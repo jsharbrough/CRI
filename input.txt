@@ -1,7 +1,0 @@
-Branch#	Site	Ancestral_amino_acid	Derived_amino_acid
-1	14	A	A
-1	501	A	V
-2	37	A	C
-2	900	V	V
-3	200	W	R
-3	205	F	L	
