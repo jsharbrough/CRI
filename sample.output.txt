@@ -1,0 +1,21 @@
+Site	AA1	AA2	Zhang 2000 – Charge	Zhang 2000 – Polarity	Zhang 2000 – Polarity and Volume	Hanada et al. 2007 – Correlation with Ka/Ks	Hanada et al. 2007 – Charge and Aromaticity	Hanada et al. 2007 – Charge and Polarity	Grantham 1974 – Charge and Hydrophobicity	CRI	AX36G_3X	BR500_3X	GN1_4X	GR12_4X	GR15_2X	GR6_3X	HP14_2X	MP2_2X	MP5_4X	MP7_3X	PG7_3X	PO_3X	PO72_4X	PO92_3X	RR3_3X	TP1_3X	Y2_2X	BR2_2X	KN4_2X	LY1_2X	MV_3X	Potamopyrgus_estuarinus_2X	KN_3X	WK_3X	IA_2X	MV35_2X
+17	I	M	C	C	C	C	C	C	C	0.0	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	M	I	I	I	I	I	I	M	I	I	I
+24	W	*	R	R	R	R	R	R	R	1.0	W	W	W	W	W	W	W	W	W	W	W	W	W	W	W	W	W	W	W	W	W	*	W	W	W	W
+39	W	*	R	R	R	R	R	R	R	1.0	W	W	W	W	W	W	W	W	W	W	W	W	W	W	W	X	W	W	W	W	W	*	*	W	W	W
+47	More than two AAs present at site, please use -a function to get CRI scores for AAs in pairwise format	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	T	T	T	A	T	T	S	T	T	T	T
+49	I	V	C	C	C	C	C	C	C	0.0	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	V	I	I	I	I	I	I	V	I	I	I
+51	T	M	C	R	R	R	C	R	R	0.7143	T	T	T	T	T	T	T	T	T	T	T	T	T	T	T	M	T	T	T	T	T	T	M	T	T	T
+68	I	M	C	C	C	C	C	C	C	0.0	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	M	I	I	I	I	I	I	M	I	M	I
+74	V	I	C	C	C	C	C	C	C	0.0	V	V	V	V	V	V	V	V	V	V	V	V	V	V	V	I	V	V	V	V	V	V	I	V	V	V
+75	V	I	C	C	C	C	C	C	C	0.0	V	V	V	V	V	V	V	V	V	V	V	V	V	V	V	I	V	V	V	V	V	V	V	V	V	V
+88	G	S	C	C	C	C	C	R	C	0.1429	G	G	S	G	S	G	S	S	G	G	G	G	S	G	G	S	S	S	S	S	S	S	S	S	S	S
+102	A	V	C	C	R	R	C	C	C	0.2857	A	A	A	A	A	X	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	V	A
+113	L	F	C	C	R	R	R	C	C	0.4286	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	F	L
+116	V	I	C	C	C	C	C	C	C	0.0	V	X	V	V	V	V	V	V	V	V	V	V	V	V	V	I	I	I	V	I	I	I	I	I	I	I
+134	M	I	C	C	C	C	C	C	C	0.0	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	I	M	M	M	M
+167	M	I	C	C	C	C	C	C	C	0.0	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	M	I	M	M	I	M
+177	I	V	C	C	C	C	C	C	C	0.0	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	V	I	I	I	I	I	I	V	I	I	I
+190	I	V	C	C	C	C	C	C	C	0.0	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	V	I	I	I	I
+193	I	M	C	C	C	C	C	C	C	0.0	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	M	I	I	I	I
+197	I	V	C	C	C	C	C	C	C	0.0	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	I	V	I	I	I	I
+212	L	F	C	C	R	R	R	C	C	0.4286	L	L	L	L	L	L	L	L	L	L	F	F	L	F	L	L	L	L	L	L	L	L	L	L	L	L
