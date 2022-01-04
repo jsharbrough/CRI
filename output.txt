@@ -1,7 +1,0 @@
-Branch	site	AncestralAA	DerivedAA	1	2	3	4	5	6	7	CRI
-1	14	A	A	NA	NA	NA	NA	NA	NA	NA	Synonymous
-1	501	A	V	C	C	R	R	C	C	C	0.29
-2	37	A	C	C	R	R	C	C	R	R	0.57
-2	900	V	V	NA	NA	NA	NA	NA	NA	NA	Synonymous
-3	200	W	R	R	R	R	C	R	R	R	0.86
-3	205	F	L	C	C	R	R	R	C	C	0.43
